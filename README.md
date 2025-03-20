@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Luis Fellipe!
 
 ### 🔹 About Me
-I am a passionate **Software Quality Assurance** professional with experience in **test automation** using **Java, Selenium, Cypress, and Robot Framework**. I am always looking to enhance my skills and contribute to the QA and test automation community.
+I am a passionate **Software Quality Assurance** professional with experience in **test automation** using **Java, Selenium, Cypress, and Robot Framework**. I am always looking to enhance my skills.
 
 ### 🚀 Technologies & Tools
 - ✅ **Languages:** Java, JavaScript, Python
