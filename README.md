@@ -14,7 +14,7 @@ I am a passionate **Software Quality Assurance** professional with experience in
 📌 **GitHub:** [luisfellipe1217](https://github.com/luisfellipe1217)
 
 ### 🌱 What I'm Learning?
-Currently, I am improving my skills in **test automation with Java and Selenium**, while also exploring new tools to ensure even greater quality in development processes.
+Currently, I am improving my skills in **test automation with Java, Selenium, and Cypress**, while also exploring new tools to ensure even greater quality in development processes.
 
 ### 💡 Projects & Contributions
 You can check out my projects and contributions on my GitHub repository: [GitHub - luisfellipe1217](https://github.com/luisfellipe1217).
