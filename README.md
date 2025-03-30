@@ -6,7 +6,7 @@ I am a passionate **Software Quality Assurance** professional with experience in
 ### 🚀 Technologies & Tools
 - ✅ **Languages:** Java, JavaScript, Python
 - ✅ **Test Automation:** Selenium, Cypress, Robot Framework
-- ✅ **CI/CD:** GitHub Actions, Jenkins
+- ✅ **CI/CD:** GitHub Actions, Azure Devops
 - ✅ **Methodologies:** Agile, Scrum, Kanban
 
 ### 📫 Get in Touch
